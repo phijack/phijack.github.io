@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://phijack.github.io/sitemap.xml
