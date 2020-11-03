@@ -5,28 +5,12 @@
     <link>https://phijack.github.io/author/hongao-wang/</link>
       <atom:link href="https://phijack.github.io/author/hongao-wang/index.xml" rel="self" type="application/rss+xml" />
     <description>Hongao Wang</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
       <url>https://phijack.github.io/images/icon_huf11b7b4249381fd318b72d8c41da4fdd_120830_512x512_fill_lanczos_center_2.png</url>
       <title>Hongao Wang</title>
       <link>https://phijack.github.io/author/hongao-wang/</link>
     </image>
-    
-    <item>
-      <title>Candidate Selections with Proportional Fairness Constraints</title>
-      <link>https://phijack.github.io/publication/dblp-confatal-bei-lpw-20/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://phijack.github.io/publication/dblp-confatal-bei-lpw-20/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Prophet Inequality for Bipartite Matching: Merits of Being Simple and Non Adaptive</title>
-      <link>https://phijack.github.io/publication/10-1145-3328526-3329604/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://phijack.github.io/publication/10-1145-3328526-3329604/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
