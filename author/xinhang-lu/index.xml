@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Xiaohui Bei | Hongao Wang&#39;s Homepage</title>
-    <link>https://phijack.github.io/author/xiaohui-bei/</link>
-      <atom:link href="https://phijack.github.io/author/xiaohui-bei/index.xml" rel="self" type="application/rss+xml" />
-    <description>Xiaohui Bei</description>
+    <title>Xinhang Lu | Hongao Wang&#39;s Homepage</title>
+    <link>https://phijack.github.io/author/xinhang-lu/</link>
+      <atom:link href="https://phijack.github.io/author/xinhang-lu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xinhang Lu</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://phijack.github.io/images/icon_huf11b7b4249381fd318b72d8c41da4fdd_120830_512x512_fill_lanczos_center_2.png</url>
-      <title>Xiaohui Bei</title>
-      <link>https://phijack.github.io/author/xiaohui-bei/</link>
+      <title>Xinhang Lu</title>
+      <link>https://phijack.github.io/author/xinhang-lu/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://phijack.github.io/publication/dblp-confaaai-bei-llw-21/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://phijack.github.io/publication/dblp-confaaai-bei-llw-21/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Candidate Selections with Proportional Fairness Constraints</title>
-      <link>https://phijack.github.io/publication/dblp-confatal-bei-lpw-20/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://phijack.github.io/publication/dblp-confatal-bei-lpw-20/</guid>
       <description></description>
     </item>
     

@@ -5,12 +5,20 @@
     <link>https://phijack.github.io/author/hongao-wang/</link>
       <atom:link href="https://phijack.github.io/author/hongao-wang/index.xml" rel="self" type="application/rss+xml" />
     <description>Hongao Wang</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://phijack.github.io/images/icon_huf11b7b4249381fd318b72d8c41da4fdd_120830_512x512_fill_lanczos_center_2.png</url>
       <title>Hongao Wang</title>
       <link>https://phijack.github.io/author/hongao-wang/</link>
     </image>
+    
+    <item>
+      <title>Maximin Fairness with Mixed Divisible and Indivisible Goods</title>
+      <link>https://phijack.github.io/publication/dblp-confaaai-bei-llw-21/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://phijack.github.io/publication/dblp-confaaai-bei-llw-21/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Candidate Selections with Proportional Fairness Constraints</title>
