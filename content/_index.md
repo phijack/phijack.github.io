@@ -21,10 +21,10 @@ sections:
     design:
       css_class: dark
       background:
-        color: black
+        color: navy
         image:
           # Add your image background to `assets/media/`.
-          filename: ocean.avif
+          filename: docean.jpg
           filters:
             brightness: 1.0
           size: cover
