@@ -58,11 +58,6 @@ profiles:
     url: https://scholar.google.com/citations?user=B9qmgMAAAAAJ&hl=zh-CN
   #- icon: academicons/orcid
   #  url: https://orcid.org/
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: files/cv.pdf
 
 education:
   - area: BSE in Information Engineering
