@@ -10,4 +10,7 @@ publishDate: '2025-07-13T02:36:19.099767Z'
 publication_types:
 - paper-conference
 publication: '*36th International Conference on Algorithmic Learning Theory*'
+links:
+- name: Proceedings
+  url: https://proceedings.mlr.press/v272/hanneke25b.html
 ---

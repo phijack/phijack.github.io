@@ -9,6 +9,6 @@ publication_types:
 - paper-conference
 publication: '*Forty-third International Conference on Machine Learning*'
 links:
-- name: URL
+- name: Paper
   url: https://openreview.net/forum?id=Bnr4cjW6XG
 ---

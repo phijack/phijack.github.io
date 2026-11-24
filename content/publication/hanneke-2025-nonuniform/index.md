@@ -11,6 +11,6 @@ publication_types:
 publication: '*The Thirty-ninth Annual Conference on Neural Information Processing
   Systems*'
 links:
-- name: URL
+- name: Paper
   url: https://openreview.net/forum?id=jc1wIiBtNk
 ---

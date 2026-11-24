@@ -16,6 +16,6 @@ publication_types:
 publication: '*16th Innovations in Theoretical Computer Science Conference (ITCS 2025)*'
 doi: 10.4230/LIPIcs.ITCS.2025.4
 links:
-- name: URL
+- name: Paper
   url: https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ITCS.2025.4
 ---

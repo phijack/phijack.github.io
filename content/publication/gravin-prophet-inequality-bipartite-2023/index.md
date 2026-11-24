@@ -30,4 +30,7 @@ abstract: "We consider the Bayesian online selection problem of a matching in bi
   the Shanghai Municipal Education Commission Innovation Program, and the Program
   for Innovative Research Team of the Shanghai University of Finance and Economics
   (IRTSHUFE)."
+links:
+- name: Publisher
+  url: https://doi.org/10.1287/moor.2022.1251
 ---

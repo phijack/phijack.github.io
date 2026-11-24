@@ -1,0 +1,34 @@
+<style>
+  /* Keep the ocean bright and the biography readable in either site theme. */
+  .ocean-biography {
+    background-color: #e0f7fa !important;
+    color: #082f49 !important;
+  }
+
+  .ocean-biography .section-bg {
+    opacity: 0.4;
+  }
+
+  .ocean-biography :is(h1, h2, h3, p, li, dt, dd, .prose, .portrait-title, .text-gray-400, .text-gray-500, .text-gray-600, .text-gray-700) {
+    color: #082f49 !important;
+  }
+
+  .ocean-biography a {
+    color: #075985 !important;
+  }
+
+  .ocean-biography .prose a {
+    text-decoration: underline;
+    text-underline-offset: 0.18em;
+  }
+
+  .ocean-biography a[href$="uploads/cv.pdf"] {
+    background-color: #075985 !important;
+    color: #fff !important;
+  }
+
+  .ocean-biography a:focus-visible {
+    outline: 3px solid #075985;
+    outline-offset: 4px;
+  }
+</style>

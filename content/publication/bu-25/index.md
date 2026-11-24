@@ -9,4 +9,7 @@ publishDate: '2026-01-18T03:11:28.795925Z'
 publication_types:
 - paper-conference
 publication: '*17th Innovations in Theoretical Computer Science Conference (ITCS 2026)*'
+links:
+- name: Proceedings
+  url: https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ITCS.2026.30
 ---

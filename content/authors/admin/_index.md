@@ -28,7 +28,7 @@ organizations:
   url: "https://www.cs.purdue.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include sublinear algorithm on big data and related statistics and learning theory, especially learnability problems. I also did some works on Algorithmic Mechanism Design, Fair Division and Online Algorithm, which I will keep working on. I have broad interests in Theoretical Computer Science.
+bio: My research focuses on learning theory and statistical algorithms, particularly learnability in online learning and sublinear algorithms for large datasets. I also work on algorithmic mechanism design, fair division, and online algorithms, and have broad interests in theoretical computer science.
 
 interests:
 - Sublinear Algorithms on Big Data and Related Statistics
@@ -98,8 +98,8 @@ user_groups:
 - Visitors
 ---
 # About me
-My name is Hongao Wang (王弘奥). I am a PhD student at Purdue University since 2021 fall and I am very fortunate to be advised by [Prof. Paul Valiant](https://www.cs.purdue.edu/homes/pvaliant/) and [Prof. Steve Hanneke](https://stevehanneke.com/).
+I am a PhD candidate in Computer Science at Purdue University, where I have been studying since fall 2021. I am fortunate to be advised by [Prof. Paul Valiant](https://www.cs.purdue.edu/homes/pvaliant/) and [Prof. Steve Hanneke](https://stevehanneke.com/).
 
-I was a project officer at Nanyang Technological University, which is a position similar to the research assistant in US. It is my honor to be supervised by [Prof. Xiaohui Bei](https://personal.ntu.edu.sg/xhbei/) at NTU, Singapore. Before that, I was an undergraduate at Shanghai Jiao Tong University and did several research projects with [Prof. Nick Gravin](https://ngravin.github.io/) from Shanghai University of Finance and Economics.
+My research focuses on learning theory and statistical algorithms, particularly learnability in online learning and sublinear algorithms for large datasets. I also work on algorithmic mechanism design, fair division, and online algorithms, and have broad interests in theoretical computer science.
 
-My research interests include Algorithmic Mechanism Design, Fair Division, Online Algorithm, sublinear algorithm on big data and related statistics and learnability problem on online learning. I am now focusing more on statistics related algorithms and learning theory, even though I did some works on mechanism design and fair division, which I will try to keep working on. I also have broad interests in Theoretical Computer Science.
+Previously, I was a project officer at Nanyang Technological University in Singapore, working with [Prof. Xiaohui Bei](https://personal.ntu.edu.sg/xhbei/). Before that, I studied Information Engineering at Shanghai Jiao Tong University and conducted research with [Prof. Nick Gravin](https://ngravin.github.io/) at Shanghai University of Finance and Economics.

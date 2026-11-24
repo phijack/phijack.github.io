@@ -32,4 +32,7 @@ tags:
 - variable number of winners
 - proportional fairness constraints
 - multi-winner selections
+links:
+- name: Paper
+  url: https://personal.ntu.edu.sg/xhbei/papers/propfairness_AAMAS20.pdf
 ---

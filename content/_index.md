@@ -19,12 +19,12 @@ sections:
         text: Download CV
         url: uploads/cv.pdf
     design:
-      css_class: dark
+      css_class: ocean-biography
       background:
-        color: navy
+        color: "#b9edf2"
         image:
           # Add your image background to `assets/media/`.
-          filename: docean.jpg
+          filename: bright-ocean.png
           filters:
             brightness: 1.0
           size: cover

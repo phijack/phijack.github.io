@@ -24,4 +24,7 @@ abstract: We study fair resource allocation when the resources contain a mixture
   allocation for any number of agents, where $$alpha$$takes values between 1/2 and
   1 and is a monotonically increasing function determined by how agents value the
   divisible goods relative to their MMS values.
+links:
+- name: Publisher
+  url: https://doi.org/10.1007/s10458-021-09517-7
 ---
